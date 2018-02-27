@@ -1,0 +1,3 @@
+[submodule "svc32WS"]
+	path = svc32WS
+	url = https://github.com/svc32GH/workspace.gh.git
