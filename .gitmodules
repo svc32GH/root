@@ -1,3 +1,6 @@
 [submodule "svc32WS"]
 	path = svc32WS
 	url = https://github.com/svc32GH/workspace.gh.git
+[submodule "pole_chudakov"]
+	path = pole_chudakov
+	url = https://github.com/vadzimko/pole_chudakov.git
