@@ -1,0 +1,17 @@
+**/alias*.properties
+**/target
+**/.project
+**/.classpath
+**/.settings
+**/*.class
+**/.recommenders/
+**/RemoteSystemsTempFiles/
+**/.metadata
+
+**/.idea
+**/*.iml
+
+**/node_modules
+
+my/
+jaxb-v2/
